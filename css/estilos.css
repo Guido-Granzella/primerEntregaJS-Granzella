@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    text-align: center;
+    background-color: wheat;
+}
+
+img{
+height: 650px;
+width: 1000px;
+}
